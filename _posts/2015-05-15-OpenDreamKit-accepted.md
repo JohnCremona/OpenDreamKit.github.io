@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenDreamKit proposal accepted
+title: Proposal accepted
 ---
 
 We are delighted to announce that the Horizon 2020 research proposal
@@ -11,7 +11,7 @@ Starting next Fall and for four years, this project will provide
 substantial funding to the open source computational mathematics
 ecosystem, and in particular popular tools such as
 [LinBox](http://linalg.org/),
-[MPIR](MPIR.org),
+[MPIR](http://mpir.org),
 [SageMath](http://sagemath.org/),
 [GAP](http://www.gap-system.org/),
 [Pari/GP](http://pari.math.u-bordeaux.fr/),
@@ -34,7 +34,7 @@ ecosystem, of the power of open source development models, and of the
 amazing hard work of many communities over the last decades.
 
 The writing of the proposal itself was
-[open and collaborative](http://opendreamkit.org/2015/01/31/open-proposal-writing.html).
+[open and collaborative](http://opendreamkit.org/2015/01/31/open-proposal-writing/).
 It grew out of a reflection on the long term needs of the community.
 It benefited considerably from the feedback of many; we would like to
 thank all those who helped shape this proposal and make it happen.

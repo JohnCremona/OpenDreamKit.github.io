@@ -1,13 +1,11 @@
 # Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
+permalink:        pretty
 relative_permalinks: true
 
 # Setup
 title:               OpenDreamKit
 tagline:             'Open Digital Research Environment Toolkit for the Advancement of Mathematics'
-description:         'A European Horizon 2020 Research project.'
+description:         'A project funded by the <a href="https://ec.europa.eu/programmes/horizon2020/">Horizon 2020</a> <a href="https://ec.europa.eu/programmes/horizon2020/en/h2020-section/european-research-infrastructures-including-e-infrastructures">European Research Infrastructures</a> Work Programme.'
 url:                 http://opendreamkit.org
 baseurl:             ''
 paginate:            5
@@ -20,6 +18,7 @@ author:
   name:              'The OpenDreamKit consortium'
   url:               http://opendreamkit.org
   email:             contact@opendreamkit.org
+  twitter:           opendreamkit
 
 # Custom vars
-version:             0.1.0
+version:             0.2.0
